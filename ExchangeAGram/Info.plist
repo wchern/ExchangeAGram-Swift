@@ -36,6 +36,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationUsageDescription</key>
+	<string>ExchangeAGram uses your location to geotag your photos</string>
+	<key>NSLocationWhenInUsageDescription</key>
+	<string>ExchangeAGram uses your location to geotag your photos</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>ExchangeAGram uses your location to geotag your photos</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
